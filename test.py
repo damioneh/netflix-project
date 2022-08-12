@@ -1,0 +1,5 @@
+print(2)
+print(2+200)
+print("Jambo les ami!")
+print("Python 101")
+print (damion)
